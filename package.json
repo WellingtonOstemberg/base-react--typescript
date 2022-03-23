@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "build": "cross-env NODE_ENV=production webpack",
-    "dev": "webpack serve"
+    "start": "webpack serve"
   },
   "author": "Wellington Luiz Benedito Ostemberg <49499755+WellingtonOstemberg@users.noreply.github.com>",
   "license": "MIT",
